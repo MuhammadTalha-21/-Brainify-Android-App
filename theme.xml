@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.Brainify" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Darker colors for Dark Mode -->
+        <item name="colorPrimary">@color/purple_200</item> <!-- Light purple for contrast -->
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Backgrounds for Dark Mode -->
+        <item name="android:windowBackground">#121212</item> <!-- Pure Dark Grey -->
+        <item name="colorSurface">#1E1E1E</item> <!-- Surface/Card color -->
+        <item name="android:textColorPrimary">@color/white</item>
+
+        <!-- Status Bar for Dark Mode -->
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

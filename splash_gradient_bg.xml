@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Step 1: Base Gradient (Navy Blue spread barha di hai) -->
+    <item>
+        <shape>
+            <gradient
+                android:angle="270"
+                android:startColor="#D7619D"
+                android:centerColor="#6200EA"
+                android:endColor="#00022E" />
+        </shape>
+    </item>
+
+    <!-- Step 2: Sky Blue Glow (Spreadness kam kar di hai aur center mein rakha hai) -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="radial"
+                android:gradientRadius="350dp"
+                android:centerX="50%"
+                android:centerY="50%"
+                android:startColor="#00B8D4"
+                android:endColor="#00000000" />
+        </shape>
+    </item>
+
+    <!-- Step 3: Bottom Navy Depth (Taake niche wala navy blue aur wazeh ho) -->
+    <item android:top="500dp">
+        <shape>
+            <gradient
+                android:angle="270"
+                android:startColor="#00000000"
+                android:endColor="#00022E" />
+        </shape>
+    </item>
+
+</layer-list>
