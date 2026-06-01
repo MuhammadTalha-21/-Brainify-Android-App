@@ -1,33 +1,36 @@
-🧠 Brainify – Smart Learning Android App
-
- 📱 About Brainify
-
-Brainify is a feature-rich Android learning application built to make studying more interactive, engaging, and efficient. It combines quizzes, structured subject content, and user personalization to create a complete learning ecosystem.
-
-🎯 Goal: Making learning easy, interactive, and engaging.
+# 🧠 Brainify – Smart Learning Android App
 
 
 
-🚀 Core Features
 
-🔹 Interactive Quizzes
+## 📱 About Brainify
+
+**Brainify** is a feature-rich Android learning application built to make studying more interactive, engaging, and efficient. It combines quizzes, structured subject content, and user personalization to create a complete learning ecosystem.
+
+> 🎯 Goal: Making learning easy, interactive, and engaging.
+
+---
+
+## 🚀 Core Features
+
+🔹 **Interactive Quizzes**
 Test your knowledge with dynamic and engaging quizzes.
 
-🔹 MCQ-Based Assessments
+🔹 **MCQ-Based Assessments**
 Practice and evaluate performance using structured MCQs.
 
-🔹 Subject-wise Learning
+🔹 **Subject-wise Learning**
 Well-organized educational content by subjects.
 
-🔹 User Profile System
+🔹 **User Profile System**
 Manage user data and track learning activity.
 
-🔹 Custom Settings
+🔹 **Custom Settings**
 Personalize your app experience easily.
 
+---
 
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Category     | Technology     |
 | ------------ | -------------- |
@@ -35,22 +38,25 @@ Personalize your app experience easily.
 | 🧰 IDE       | Android Studio |
 | ⚙️ Framework | Android SDK    |
 
+---
 
- 🎯 App Highlights
+## 🎯 App Highlights
 
 ✔ Clean & User-Friendly UI
 ✔ Fast & Lightweight Performance
 ✔ Designed for Students & Learners
 ✔ Scalable Architecture
 
+---
 
+## 👨‍💻 Developers
 
-👨‍💻 Developers
+* **Muhammad Talha**
+* **Nahah Butt**
 
-Muhammad Talha
-Nahah Butt
+---
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 🚀 Firebase Integration (Online Data)
 🏆 Leaderboard System
@@ -59,6 +65,9 @@ Nahah Butt
 📊 Progress Analytics Dashboard
 
 
-⭐ Support
+
+---
+
+## ⭐ Support
 
 If you like this project, don’t forget to **star ⭐ the repo** and share it!
